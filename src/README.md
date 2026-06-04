@@ -1,3 +1,5 @@
+# [![CI](https://github.com/mvwaes/skills-getting-started-with-github-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/mvwaes/skills-getting-started-with-github-copilot/actions/workflows/ci.yml)
+
 # Mergington High School Activities API
 
 A super simple FastAPI application that allows students to view and sign up for extracurricular activities.

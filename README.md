@@ -1,5 +1,7 @@
 # Getting Started with GitHub Copilot
 
+[![CI](https://github.com/mvwaes/skills-getting-started-with-github-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/mvwaes/skills-getting-started-with-github-copilot/actions/workflows/ci.yml)
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey mvwaes!
